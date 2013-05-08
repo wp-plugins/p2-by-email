@@ -3,7 +3,7 @@ Contributors: danielbachhuber, humanmade
 Tags: gtd, productivity, workflow, p2, email notifications
 Requires at least: 3.4
 Tested up to: 3.6-alpha
-Stable tag: 0.0
+Stable tag: 1.0
 
 Use P2? Use email? Use both!
 
@@ -20,7 +20,7 @@ Perfect for communicating with your team while on the go.
 
 Users can change their communication preferences from the default of all posts and comments using profile settings. A special setting can ensure they always receive an email when their username is mentioned.
 
-Want another feature added? [Send us a pull request](https://github.com/humanmade/P2-By-Email/) and we'll consider it.
+Want another feature added? [Send us a pull request](https://github.com/humanmade/P2-By-Email/) and we'll consider it. Reply by email depends on a [young email reply parsing class](https://github.com/humanmade/What-The-Email) — there's the chance a comment will appear oddly, and we welcome improvements to the regex.
 
 == Installation ==
 
